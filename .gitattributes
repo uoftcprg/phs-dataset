@@ -1,0 +1,14 @@
+data/eight-or-better/full.csv filter=lfs diff=lfs merge=lfs -text
+data/kuhn-poker/full.csv filter=lfs diff=lfs merge=lfs -text
+data/regular/partial.csv filter=lfs diff=lfs merge=lfs -text
+data/standard/full.csv filter=lfs diff=lfs merge=lfs -text
+data/standard-badugi/partial.csv filter=lfs diff=lfs merge=lfs -text
+data/badugi/full.csv filter=lfs diff=lfs merge=lfs -text
+data/badugi/partial.csv filter=lfs diff=lfs merge=lfs -text
+data/eight-or-better/partial.csv filter=lfs diff=lfs merge=lfs -text
+data/regular/full.csv filter=lfs diff=lfs merge=lfs -text
+data/standard/partial.csv filter=lfs diff=lfs merge=lfs -text
+data/kuhn-poker/partial.csv filter=lfs diff=lfs merge=lfs -text
+data/short-deck-holdem/full.csv filter=lfs diff=lfs merge=lfs -text
+data/short-deck-holdem/partial.csv filter=lfs diff=lfs merge=lfs -text
+data/standard-badugi/full.csv filter=lfs diff=lfs merge=lfs -text
