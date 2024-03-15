@@ -2,7 +2,7 @@
 Poker Hand Strengths
 ====================
 
-A collection of poker hands, covering 6 hand types, in the comma-separated values (CSV) format.
+A collection of poker hands, covering 7 hand types, in the comma-separated values (CSV) format.
 
 Contents:
 
