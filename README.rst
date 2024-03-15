@@ -12,4 +12,4 @@ Contents:
 - Ace-to-five (regular)
 - Short-deck hold 'em (6+ hold 'em)
 - Deuce-to-seven (standard)
-- Deuce-to-seven badugi (standard)
+- Deuce-to-seven badugi (standard badugi)
